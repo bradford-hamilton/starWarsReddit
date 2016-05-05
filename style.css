@@ -1,0 +1,40 @@
+body {
+  background-color: #bbd9f6;
+  font-family: 'Lora', serif;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-left: 60%;
+  margin-right: 40%;
+}
+
+li {
+  margin-top: 2rem;
+  list-style-type: none;
+  font-size: 1.7rem;
+  border-bottom: 1px solid black;
+}
+
+img {
+  height: 4rem;
+  width: 4rem;
+  border-radius: 7%;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+/*** link text ***/
+a {
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+/*** comments text ***/
+p {
+  font-size: 1rem;
+  color: #e04a13;
+  text-shadow: 1.5px 1.5px 10px #7e7c7c;
+  float: right;
+  margin-right: 3rem;
+}
